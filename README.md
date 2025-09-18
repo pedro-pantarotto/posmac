@@ -23,11 +23,11 @@ Esta seção é dedicada aos meus projetos de pesquisa. Cada projeto possui seu 
 
 1.  **Algoritmo para Alerta de Evasão Universitária (FAPESP)**
     * **Título:** *Políticas Públicas e Ações Afirmativas na Universidade Pública: definindo algoritmo para alerta de evasão de ingressantes universitários via reserva de vagas e cotas raciais.*
-    * **Ver detalhes:** **[./pesquisas/alerta-evasao/](./pesquisas/alerta-evasao/)**
+    * **Ver detalhes:** **[./pesquisas/alerta-evasao/](./pesquisas/fapesp/)**
 
 2.  **Mecânica de Fluidos Não-Newtonianos**
     * **Título:** *Análise numérica e assintótica de equações diferenciais parciais: aplicações em mecânica de fluidos não-newtonianos.*
-    * **Ver detalhes:** **[./pesquisas/fluidos-nao-newtonianos/](./pesquisas/fluidos-nao-newtonianos/)**
+    * **Ver detalhes:** **[./pesquisas/fluidos-nao-newtonianos/](./pesquisas/numericalanalisys/)**
 
 ---
 
