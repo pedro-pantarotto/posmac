@@ -27,7 +27,7 @@ Esta seção é dedicada aos meus projetos de pesquisa. Cada projeto possui seu 
 
 2.  **Mecânica de Fluidos Não-Newtonianos**
     * **Título:** *Análise numérica e assintótica de equações diferenciais parciais: aplicações em mecânica de fluidos não-newtonianos.*
-    * **Ver detalhes:** **[./pesquisas/fluidos-nao-newtonianos/](./pesquisas/numericalanalisys/)**
+    * **Ver detalhes:** **[./pesquisas/fluidos-nao-newtonianos/](./pesquisas/numerical-analysis/)**
 
 ---
 
