@@ -15,7 +15,7 @@ O conteúdo está organizado nas seguintes áreas:
 ### 📁 `disciplinas/`
 Nesta pasta, você encontrará os materiais relativos às disciplinas que estou cursando, incluindo notas de aula, códigos e trabalhos.
 
-* **[Álgebra Linear Para Ciência de Dados](./disciplinas/algebra-linear-ciencia-dados/)**
+* **[Álgebra Linear Para Ciência de Dados](./disciplinas/alcd/)**
 * **[Análise Numérica](./disciplinas/analise-numerica/)**
 
 ### 📁 `pesquisas/`
