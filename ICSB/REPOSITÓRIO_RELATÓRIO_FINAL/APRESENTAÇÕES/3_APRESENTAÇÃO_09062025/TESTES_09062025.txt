@@ -1,0 +1,43 @@
+✅ 1. Matriz para Jacobi (diagonal dominante)
+
+# Matriz A: diagonal dominante
+A_jacobi = np.array([
+    [10, 1, 1],
+    [2, 10, 1],
+    [2, 2, 10]
+], dtype=float)
+
+# Vetor b
+b_jacobi = np.array([12, 13, 14], dtype=float)
+
+🔎 Por que favorece Jacobi?
+A matriz é estritamente diagonal dominante: em cada linha, o valor da diagonal é maior que a soma dos valores fora dela. Isso garante a convergência do método de Jacobi e o destaca em simplicidade.
+
+✅ 2. Matriz para Gauss-Seidel (simétrica e bem condicionada)
+
+# Matriz A: simétrica e bem condicionada
+A_gauss = np.array([
+    [4.0, 1.0],
+    [1.0, 3.0]
+])
+
+# Vetor b
+b_gauss = np.array([1.0, 2.0])
+
+🔎 Por que favorece Gauss-Seidel?
+Essa matriz é simétrica e positiva definida, com bom condicionamento. O método Gauss-Seidel converge mais rápido que Jacobi aqui porque ele usa os valores atualizados a cada passo.
+
+✅ 3. Matriz para Gradiente (simétrica definida positiva e esparsa)
+
+# Matriz A: simétrica definida positiva e esparsa
+A_grad = np.array([
+    [4, 1, 0],
+    [1, 3, 1],
+    [0, 1, 2]
+], dtype=float)
+
+# Vetor b
+b_grad = np.array([1, 2, 3], dtype=float)
+
+🔎 Por que favorece o Gradiente?
+Essa matriz é simétrica e definida positiva, condição fundamental para o método dos gradientes. Além disso, ela é esparsa, o que combina com a eficiência computacional dos métodos baseados em gradiente.
